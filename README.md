@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Mowlanica Billa</h1>
 <h3 align="center">Data Scientist | Machine Learning | Artificial Intelligence | Passionate about data, dedicated to results.</h3>
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mowlanicabilla&label=Profile%20views&color=0e75b6&style=flat" alt="mowlanicabilla" /> </p>
 
