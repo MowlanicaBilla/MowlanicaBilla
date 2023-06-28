@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Mowlanica Billa</h1>
 <h3 align="center">Data Scientist | Machine Learning | Artificial Intelligence | Passionate about data, dedicated to results.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mowlanicabilla&label=Profile%20views&color=0e75b6&style=flat" alt="mowlanicabilla" /> </p>
 
@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, AI, Python**
 
-- ⚡ Fun fact **I'm a foodie and I can talk non-stop about food**
+- 🤝 I'm looking to collaborate on **End-to-End Data Science projects**
+
+- ⚡ Fun fact **I'm a foodie and I can talk non-stop about Movies, TV shows, crafts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
